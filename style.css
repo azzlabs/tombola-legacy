@@ -4,8 +4,6 @@
     box-sizing: border-box;
 }
 body {
-    /* background: url('background.jpg') no-repeat center;
-    background-size: cover; */
     background-color: #F5EACE;
     font-family: "Montserrat", sans-serif;
 }
@@ -67,7 +65,7 @@ h1.title {
     transition: all .5s linear;
 }
 .number.called {
-    background: url('numero-bg.png') center;
+    background: url('images/numero-bg.png') center;
     background-size: cover;
     color: #c01d00;
     text-shadow: 0 0 50px rgba(255, 255, 255, 0.664);
@@ -88,7 +86,7 @@ h1.title {
     width: 200px;
     height: 200px;
     border-radius: 150px;
-    background: url('numero-bg.png') center;
+    background: url('images/numero-bg.png') center;
     background-size: cover;
 }
 .called-number-container {
@@ -101,7 +99,7 @@ h1.title {
     margin: 0 auto;
     height: 140px;
     width: 50%;
-    background: url('Stencil-numbers.png');
+    background: url('images/stencil-numbers.png');
     background-size: cover;
     background-position: 0.4%;
 }
@@ -158,9 +156,6 @@ h1.title {
 
 #tavola {
     width: 100%;
-    /* background-image: url('table-backdrop.png'); */
-    /* background-size: cover; */
-	/* border: 2px solid #8C1400; */
 }
 #tavola tr:nth-child(3n) td {
     padding-bottom: 20px;
