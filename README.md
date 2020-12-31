@@ -16,7 +16,7 @@ Tramite il menu in basso, è possibile resettare il tabellone e disabilitare la 
 
 ![Screenshot Tombola!](images/screenshot.png)
 
-## TO-DO list
-- Aggiungere una schermata iniziale
-- Aggiungere la modalità multi-utente
-- Aggiungere generazione e visualizzazione delle cartelle
+~~## TO-DO list~~
+~~- Aggiungere una schermata iniziale~~
+~~- Aggiungere la modalità multi-utente~~
+~~- Aggiungere generazione e visualizzazione delle cartelle~~
