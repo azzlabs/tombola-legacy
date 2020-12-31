@@ -1,9 +1,10 @@
 # Tombola!
 Una tombola proiettabile scritta in JavaScript e PHP!
-Questa versione non viene più aggiornata, il nuovo repository è stato spostato a [github.com/azzlabs/tombola](https://github.com/azzlabs/tombola)
+
+**Questa versione non viene più aggiornata, il nuovo repository è stato spostato a [github.com/azzlabs/tombola](https://github.com/azzlabs/tombola)**
 
 
-![Logo Tombola!](https://raw.githubusercontent.com/azzlabs/tombola/master/images/logo.png)
+![Logo Tombola!](images/logo.png)
 
 ## Installazione
 Per utilizzarla basta copiare i file in una cartella del webserver e accedervi da client, nessun altro setup richiesto!
@@ -13,7 +14,7 @@ Per ora, il tabellone non utilizza un database ma salva tutto su un file `.json`
 E' possibile aprire il tabellone su qualsiasi dispositivo e ogni istanza aperta si sincronizzerà in automatico con le altre: è utile per avere, per esempio, un'istanza su un proiettore o televisore e un'altra istanza su table, telefono o pc, per poter estrarre i numeri.
 Tramite il menu in basso, è possibile resettare il tabellone e disabilitare la sincronizzazione automatica (i numeri chiamati verranno comunque salvati su file e sincronizzati sulle atre istanze)
 
-![Screenshot Tombola!](https://raw.githubusercontent.com/azzlabs/tombola/master/images/screenshot.png)
+![Screenshot Tombola!](images/screenshot.png)
 
 ## TO-DO list
 - Aggiungere una schermata iniziale
