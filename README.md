@@ -1,7 +1,7 @@
 # Tombola!
 Una tombola proiettabile scritta in JavaScript e PHP!
 
-**Questa versione non viene più aggiornata, il nuovo repository è stato spostato a [github.com/azzlabs/tombola](https://github.com/azzlabs/tombola)**
+### Questa versione non viene più aggiornata, il nuovo repository è stato spostato a [github.com/azzlabs/tombola](https://github.com/azzlabs/tombola)
 
 
 ![Logo Tombola!](images/logo.png)
